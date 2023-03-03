@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\RAMISOL Listener Service\obj\x86\Debug\Mindray Listener Service Ambassador.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\RAMISOL Listener Service\obj\x86\Debug\RAMISOL_Listener_Service.RemisolServer.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\RAMISOL Listener Service\obj\x86\Debug\Mindray_Interface_Service.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\RAMISOL Listener Service\obj\x86\Debug\Mindray Listener Service Ambassador.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\RAMISOL Listener Service\obj\x86\Debug\Mindray Interface.exe.licenses

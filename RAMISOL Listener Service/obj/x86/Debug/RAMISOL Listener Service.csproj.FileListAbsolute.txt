@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\bin\Debug\RAMISOL Listener Service.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\bin\Debug\RAMISOL Listener Service.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\bin\Debug\RAMISOL Listener Service.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\obj\x86\Debug\RAMISOL_Listener_Service.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\obj\x86\Debug\RAMISOL Listener Service.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\obj\x86\Debug\RAMISOL Listener Service.exe.licenses
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\obj\x86\Debug\RAMISOL Listener Service.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\obj\x86\Debug\RAMISOL Listener Service.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\obj\x86\Debug\RAMISOL Listener Service.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\obj\x86\Debug\RAMISOL_Listener_Service.RemisolServer.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\bin\Debug\BasicClassLibrary.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\RAMISOL Listener Service\bin\Debug\BasicClassLibrary.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface\RAMISOL Listener Service\bin\Debug\RAMISOL Listener Service.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface\RAMISOL Listener Service\obj\x86\Debug\RAMISOL Listener Service.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface\RAMISOL Listener Service\obj\x86\Debug\RAMISOL Listener Service.pdb

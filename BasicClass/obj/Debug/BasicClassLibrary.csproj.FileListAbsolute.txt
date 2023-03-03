@@ -1,0 +1,25 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\HIMS\BasicClass\bin\Debug\BasicClassLibrary.dll.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\HIMS\BasicClass\bin\Debug\BasicClassLibrary.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\HIMS\BasicClass\bin\Debug\BasicClassLibrary.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\HIMS\BasicClass\bin\Debug\Telerik.ReportViewer.WebForms.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\HIMS\BasicClass\obj\Debug\BasicClassLibrary.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\HIMS\BasicClass\obj\Debug\BasicClassLibrary.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\HIMS\BasicClass\obj\Debug\BasicClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\BasicClass\bin\Debug\BasicClassLibrary.dll.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\BasicClass\bin\Debug\BasicClassLibrary.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\BasicClass\bin\Debug\BasicClassLibrary.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\BasicClass\obj\Debug\BasicClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\BasicClass\obj\Debug\BasicClassLibrary.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\RAMISOL Listener Service\BasicClass\obj\Debug\BasicClassLibrary.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface\BasicClass\bin\Debug\BasicClassLibrary.dll.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface\BasicClass\bin\Debug\BasicClassLibrary.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface\BasicClass\bin\Debug\BasicClassLibrary.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface\BasicClass\obj\Debug\BasicClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface\BasicClass\obj\Debug\BasicClassLibrary.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface\BasicClass\obj\Debug\BasicClassLibrary.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\BasicClass\bin\Debug\BasicClassLibrary.dll.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\BasicClass\bin\Debug\BasicClassLibrary.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\BasicClass\bin\Debug\BasicClassLibrary.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\BasicClass\obj\Debug\BasicClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\BasicClass\obj\Debug\BasicClassLibrary.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Mindray Interface Ambassador\BasicClass\obj\Debug\BasicClassLibrary.pdb

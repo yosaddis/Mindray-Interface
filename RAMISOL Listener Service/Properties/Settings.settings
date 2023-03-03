@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RAMISOL_Listener_Service.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.3.19</Value>
+    </Setting>
+    <Setting Name="PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7118</Value>
+    </Setting>
+    <Setting Name="SERVER1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.2\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="DATABASE1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sebez_Lis</Value>
+    </Setting>
+    <Setting Name="USERNAME1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="PASSWORD1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">abc@123</Value>
+    </Setting>
+    <Setting Name="SERVER2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.7\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="DATABASE2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sefedms_4</Value>
+    </Setting>
+    <Setting Name="USERNAME2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="PASSWORD2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">abc@123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
